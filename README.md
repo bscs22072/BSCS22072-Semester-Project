@@ -1,4 +1,7 @@
 > [!NOTE]
+> Access the web app user manual via this [User Manual](https://github.com/bscs22072/BSCS22072-Semester-Project/blob/main/public/AssistU-User-Manual.pdf).
+
+> [!NOTE]
 > This is a **NOTE**. It provides standard information.
 
 > [!TIP]
