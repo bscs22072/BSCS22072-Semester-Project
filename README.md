@@ -1,7 +1,7 @@
 > [!NOTE]
 > This is a **NOTE**. It provides standard information.
 
-> [!TIP]
+> [!Server]
 > This is a **TIP**. Use this for helpful advice or shortcuts.
 > *You can include formatted text and lists inside.*
 
